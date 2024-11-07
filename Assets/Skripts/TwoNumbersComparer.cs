@@ -28,6 +28,7 @@ public class TwoNumbersComparer : MonoBehaviour
         value_2 = result_2;
     }
 
+    //Проверка
     public void onCheckClick()
     {
         if (value_1 == 0f && value_2 == 0f)
